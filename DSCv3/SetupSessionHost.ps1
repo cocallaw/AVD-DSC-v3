@@ -27,6 +27,7 @@ Configuration SetupSessionHost
     )
 
     Import-DscResource -ModuleName PSDesiredStateConfiguration
+    Import-DscResource -ModuleName CustomFunctions
 
     Node localhost
     {
