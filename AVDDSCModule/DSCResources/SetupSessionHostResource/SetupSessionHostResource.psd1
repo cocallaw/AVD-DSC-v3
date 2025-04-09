@@ -1,7 +1,7 @@
 @{
     RootModule           = 'SetupSessionHostResource.psm1'
     ModuleVersion        = '1.0.0'
-    GUID                 = 'a1234567-b89c-40ab-9abc-1234567890ab'
+    GUID                 = 'c0cdc5a7-c4d9-47f5-8d5c-8a4a57e582ef'
     Author               = 'Corey Callaway'
     CompanyName          = 'Microsoft'
     Description          = 'DSC v3 resource to configure an AVD session host with optional Entra join.'
